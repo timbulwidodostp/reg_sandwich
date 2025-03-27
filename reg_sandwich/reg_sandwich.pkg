@@ -1,4 +1,8 @@
-D 'DEA': Data envelopment analysis
+D 'reg_sandwich': Linear regression with small-sample corrections for cluster-robust standard errors and t-tests Use reg_sandwich With STATA 18
 D
-F dea.ado
-F dea.sthlp
+F reg_sandwich.ado
+F reg_sandwich.sthlp
+F reg_sandwich_ttests.mo
+F test_sandwich.ado
+F test_sandwich.sthlp
+F test_sandwich_ftests.mo
