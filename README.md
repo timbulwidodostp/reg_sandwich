@@ -1,9 +1,11 @@
 # reg_sandwich
-Linear regression with small-sample corrections for cluster-robust standard errors and t-tests Use reg_sandwich With STATA 18
+Linear regression with small-sample corrections for cluster-robust standard errors and t-tests Use reg_sandwich With STATA 19
 
-cluster-robust (sandwich) variance estimators with small-sample corrections for linear regression Use reg_sandwich With STATA 18
+cluster-robust (sandwich) variance estimators with small-sample corrections for linear regression Use reg_sandwich With STATA 19
 
-Robust Small Sample Corrected standard error estimation Use reg_sandwich With STATA 18
+Robust Small Sample Corrected standard error estimation Use reg_sandwich With STATA 19
+
+https://www.youtube.com/watch?v=8dY-uO8FL3A
 
 Olah Data Semarang
 
